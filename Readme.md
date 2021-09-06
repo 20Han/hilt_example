@@ -1,3 +1,3 @@
 Hilt와 MVVM패턴을 이용한 간단한 노트앱 입니다
 
-https://201-dev.tistory.com/5
+https://velog.io/@201/Hilt%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-MVVM-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0
